@@ -15,8 +15,7 @@
     "bloopers/ehm_11.mp3",
     "bloopers/ehm_11.mp3",
     "bloopers/ehm_12.mp3",
-    "bloopers/ehm_13.mp3"
-  ],
+    "bloopers/ehm_13.mp3"],
   "nouns": [
    "nouns/accumulazione.mp3",
 "nouns/aleatorio.mp3",
@@ -77,6 +76,18 @@
 "nouns/testisonori.mp3",
 "nouns/unacantante.mp3",
 "nouns/unaseriedi.mp3",
-"nouns/unconcerto.mp3"
-  ]
+"nouns/unconcerto.mp3"],
+  "questa": [
+    "questa/questa.mp3",
+"questa/questaconversazione.mp3",
+"questa/questafase_2.mp3",
+"questa/questafase.mp3",
+"questa/questanecessitàdiaprire.mp3",
+"questa/questascuoladipensiero.mp3",
+"questa/questasocietà.mp3",
+"questa/questeintepretazioni.mp3",
+"questa/questeperformance.mp3",
+"questa/questiconcetti.mp3"]
 }
+
+
