@@ -1,1 +1,7 @@
-{"_base":"https://raw.githubusercontent.com/prof12200/strudel_repo/main/","ehm_01.mp3","ehm_02.mp3"}
+{
+  "_base": "https://raw.githubusercontent.com/prof1220/strudel_repo/main/",
+  "bloopers": [
+    "bloopers/ehm_01.mp3",
+    "bloopers/ehm_02.mp3"
+  ]
+}
