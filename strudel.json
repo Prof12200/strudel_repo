@@ -77,8 +77,8 @@
 "nouns/unacantante.mp3",
 "nouns/unaseriedi.mp3",
 "nouns/unconcerto.mp3"],
-  "questa": [
-    "questa/questa.mp3",
+  "questa":[
+"questa/questa.mp3",
 "questa/questaconversazione.mp3",
 "questa/questafase_2.mp3",
 "questa/questafase.mp3",
@@ -87,7 +87,24 @@
 "questa/questasocietà.mp3",
 "questa/questeintepretazioni.mp3",
 "questa/questeperformance.mp3",
-"questa/questiconcetti.mp3"]
+"questa/questiconcetti.mp3"],
+  "nono":[
+"nono/luiginono_3.mp3",
+"nono/luigiNono_4.mp3",
+"nono/Nono_01.mp3",
+"nono/Nono_02.mp3",
+"nono/Nono_04.mp3",
+"nono/Nono_05.mp3",
+"nono/Nono_08.mp3",
+"nono/Nono_09.mp3",
+"nono/Nono_10.mp3",
+"nono/Nono_11mp3.mp3",
+"nono/nono_12.mp3",
+"nono/Nono_13.mp3",
+"nono/Nono_14.mp3",
+"nono/Nonolavorò.mp3",
+"nono/NonoLuiginono_6.mp3",
+"nono/NonouigiNono.mp3"]
 }
 
 
